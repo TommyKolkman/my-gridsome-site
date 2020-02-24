@@ -1,6 +1,7 @@
 ---
 title: Blog Post Four
 excerpt: Mooi spul hoor!
+featuredImage: /uploads/image1.jpg
 ---
 
 # Heading BP4

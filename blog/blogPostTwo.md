@@ -1,6 +1,7 @@
 ---
 title: Blog Post Two
 excerpt: Mooi spul hoor 2!
+featuredImage: /uploads/image2.jpg
 ---
 
 # Heading BP2

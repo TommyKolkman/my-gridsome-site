@@ -1,6 +1,8 @@
 <template>
     <BlogLayout>
-        <div class="markdown-body" v-html="$page.post.content" />
+        <h1>{{ $page.post.title }}</h1>
+        <img :src="$page.post.featuredImage" alt="blog" />
+        <div v-html="$page.post.content" class="markdown-body" />
     </BlogLayout>
 </template>
 
@@ -9,6 +11,7 @@
         post: post( path: $path ){
             title
             content
+            featuredImage
         }
     }
 </page-query>

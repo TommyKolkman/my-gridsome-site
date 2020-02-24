@@ -1,6 +1,7 @@
 ---
 title: Blog Post Three
 excerpt: Mooi spul hoor 3!
+featuredImage: /uploads/image1.jpg
 ---
 
 # Heading BP3

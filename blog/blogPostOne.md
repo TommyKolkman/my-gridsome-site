@@ -1,6 +1,7 @@
 ---
 title: Blog Post One
 excerpt: Mooi spul hoor!
+featuredImage: /uploads/image2.jpg
 ---
 
 # Heading
