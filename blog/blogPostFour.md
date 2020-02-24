@@ -1,6 +1,6 @@
 ---
 title: 'Blog Post Four, WoooTooot'
-featuredImage: uploads/vergelijkingswidget.png
+featuredImage: /uploads/ai.png
 ---
 # Heading BP4 Changed it!
 
