@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c413f06-070c-403e-bc97-51205930a802" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/admin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogPostFour.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogPostFour.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogPostOne.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogPostOne.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogPostThree.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogPostThree.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/blogPostTwo.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blogPostTwo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/Post.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Post.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582119627232</updated>
       <workItem from="1582119631547" duration="6380000" />
-      <workItem from="1582553809857" duration="3016000" />
+      <workItem from="1582553809857" duration="3569000" />
     </task>
     <servers />
   </component>
