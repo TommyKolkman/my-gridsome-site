@@ -1,10 +1,8 @@
 ---
-title: Blog Post Four
-excerpt: Mooi spul hoor!
-featuredImage: /uploads/image1.jpg
+title: 'Blog Post Four, WoooTooot'
+featuredImage: uploads/vergelijkingswidget.png
 ---
-
-# Heading BP4
+# Heading BP4 Changed it!
 
 ## Heading 2
 
